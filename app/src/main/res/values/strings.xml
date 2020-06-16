@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DrinkStore</string>
+    <string name="ingredient_add_string">ingredient</string>
+    <string name="amount_string">qty</string>
+    <string-array name="units_array">
+        <item>units</item>
+        <item>shots</item>
+        <item>cl</item>
+        <item>ml</item>
+        <item>L</item>
+        <item>tea spoons</item>
+        <item>g</item>
+        <item>tb spoon</item>
+
+    </string-array>
+</resources>
